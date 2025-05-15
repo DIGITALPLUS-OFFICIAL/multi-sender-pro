@@ -1,2 +1,2 @@
 # multi-sender-pro
-Multi sender Pro
+Multi sender Pro+
